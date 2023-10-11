@@ -411,7 +411,7 @@ img {
 
 }
 .description{
-  width: 65%;
+  max-width: 65%;
 }
 .article-body-others iframe{
   max-width: 100%;
@@ -522,6 +522,8 @@ img {
     margin-right: 0;
     margin-bottom: 30px;
   }
+
+
   /* Skill */
   .skill-list {
     display: block;
@@ -590,6 +592,6 @@ img {
     margin-bottom: 20px;
   }
   .description{
-    max-width: 100%
+    max-width: 100%;
   }
 }
