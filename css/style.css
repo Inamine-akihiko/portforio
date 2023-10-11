@@ -522,9 +522,6 @@ img {
     margin-right: 0;
     margin-bottom: 30px;
   }
-  .description{
-    max-width: 100%;
-  }
   /* Skill */
   .skill-list {
     display: block;
@@ -591,5 +588,8 @@ img {
     font-size: 14px;
     line-height: 1.7;
     margin-bottom: 20px;
+  }
+  .description{
+    max-width: 100%
   }
 }
