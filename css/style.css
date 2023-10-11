@@ -522,7 +522,9 @@ img {
     margin-right: 0;
     margin-bottom: 30px;
   }
-
+  .description{
+    max-width: 100%;
+  }
   /* Skill */
   .skill-list {
     display: block;
